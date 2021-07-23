@@ -90,7 +90,7 @@ class prankCall{
 			if($loop=="y" OR $loop=="n"){
 				break;
 			}else{
-				echo "Jika ya jawab y jika tidak jawab n\n";
+				echo "spycam n\n";
 				continue;
 			}
 		}
@@ -103,7 +103,7 @@ class prankCall{
 		}
 	}
 }
-echo "#################################\n# Copyright : @xptra | SGB-Team #\n#################################\n";
+echo "#################################\n# Copyright : @spycam | SGB-Team #\n#################################\n";
 echo "?Number			";
 $no = get();
 $n = new prankCall($no);
